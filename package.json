@@ -1,0 +1,31 @@
+{
+  "name": "asyncmailingform",
+  "version": "0.0.1",
+  "private": true,
+  "licenses": [
+    {
+      "type": "UNLICENSED"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jsalinasvela/asyncmailingform.git"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.0",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-include": "^2.4.1",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-uglify": "^3.0.2"
+  },
+  "engines" : { 
+    "node" : "^8" 
+  },
+  "scripts": {},
+  "dependencies": {}
+}
